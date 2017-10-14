@@ -1,4 +1,4 @@
-package com.newsreader;
+package com.olohanitech.newsreader;
 
 import com.facebook.react.ReactActivity;
 

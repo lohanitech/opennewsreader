@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.newsreader"
+    package="com.olohanitech.newsreader"
     android:versionCode="1"
     android:versionName="1.0">
 

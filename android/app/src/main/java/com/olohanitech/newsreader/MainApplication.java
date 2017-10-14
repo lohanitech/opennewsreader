@@ -1,4 +1,4 @@
-package com.newsreader;
+package com.olohanitech.newsreader;
 
 import android.app.Application;
 
